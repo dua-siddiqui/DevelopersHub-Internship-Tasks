@@ -6,6 +6,7 @@ Tools Used
 •	Scikit-learn
 
 Task 1: Iris Dataset
+
 •	Performed data exploration and visualization
 •	Used scatter plots, histograms, and boxplots
 •	Observed clear separation of species
