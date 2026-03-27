@@ -1,6 +1,5 @@
 Tools Used
- 
- Python
+Python
 Pandas
 Matplotlib
 Seaborn
