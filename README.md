@@ -1,11 +1,13 @@
 Tools Used
-Python
-Pandas
-Matplotlib
-Seaborn
+
+Python,
+Pandas,
+Matplotlib,
+Seaborn,
 Scikit-learn
 
 Task 1: Iris Dataset
+
 •	Performed data exploration and visualization
 •	Used scatter plots, histograms, and boxplots
 •	Observed clear separation of species
@@ -19,6 +21,7 @@ Insights:
 
 
 Task 2: Loan Prediction
+
 •	Cleaned missing data and encoded categorical variables
 •	Used Logistic Regression model
 •	Achieved good accuracy
@@ -33,6 +36,7 @@ Insights:
 
 
 Task 3: Customer Churn Prediction
+
 •	Used Random Forest classifier
 •	Performed feature importance analysis
 •	Found age and balance affect churn
@@ -46,6 +50,7 @@ Insights:
 
 
 Task 4: Insurance Cost Prediction
+
 •	Used Linear Regression
 •	Evaluated using MAE and RMSE
 •	Smoking and age strongly affect cost
